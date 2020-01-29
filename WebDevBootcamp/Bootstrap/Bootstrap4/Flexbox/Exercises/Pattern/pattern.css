@@ -1,0 +1,22 @@
+#banner {
+    background: url(https://www.7case.nl/wp-content/uploads/2019/02/Dollarphotoclub_70724536-1-1600x1000.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-brand {
+    padding-left: 10%;
+    font-size: 1.0rem;
+}
+
+.card-title {
+    font-size: 1.2rem;
+}
+
+.card-text {
+    font-size: 0.8rem;
+}
+
+.card {
+    max-width: 16rem;
+}
