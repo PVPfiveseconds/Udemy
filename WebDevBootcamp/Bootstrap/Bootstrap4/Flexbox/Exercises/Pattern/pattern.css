@@ -5,7 +5,6 @@
 }
 
 .navbar-brand {
-    padding-left: 10%;
     font-size: 1.0rem;
 }
 
@@ -15,8 +14,4 @@
 
 .card-text {
     font-size: 0.8rem;
-}
-
-.card {
-    max-width: 16rem;
 }
