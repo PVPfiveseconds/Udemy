@@ -1,2 +1,3 @@
 var age = prompt("How old are you?");
-console.log("You've lived for " + (age*365) + " days.");
+var days = age * 365.25
+console.log("You've lived for approximately " + days + " days.");
